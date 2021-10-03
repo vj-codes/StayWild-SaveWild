@@ -10,8 +10,8 @@
           />
           <p
             class="font-lg font-weight-bold"
-          >StayWild-SaveWild is a crowd sourcing platform for collecting data sets related to the illegal sale of endangered animals on the internet. These data are used to track and monitor animal markets as well as train AI.</p>
-          <span class="text-primary">Start contributing today by registering today!</span>
+          >StayWild-SaveWild is a gamified crowd sourcing platform for collecting data sets related to the illegal sale of endangered animals on the internet. This data will be used to track and monitor animal markets as well as train AI.Together WE can make a difference!</p>
+          <span class="text-primary">Start contributing by registering today!</span>
         </div>
         <div v-if="!$store.state.email" class="col-12 col-md-6 col-lg-4">
           <tabs fill class="flex-column flex-md-row">
